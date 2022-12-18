@@ -1,0 +1,37 @@
+body
+{
+	background: url(https://images4.newscred.com/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: url(https://codecanyon.img.customer.envatousercontent.com/files/382231196/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=480d1dc02ad251141e3db927eb2e1759);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1 , #player2
+{
+	display: inline-block;
+	margin-left: 10px;
+	width: 80%;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
